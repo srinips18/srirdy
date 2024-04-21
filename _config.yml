@@ -50,27 +50,27 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Srini and I'm a Peoplesoft consultant and Cloud Consultant. As well as Peoplesoft devlopments I also have experience making Configuring and maintaing cloud application. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>PeopleSoft</mark> , <mark>AWS/Azure</mark>, <mark>Devops</mark>.
+  I am most skilled in: <mark>PeopleSoft</mark>  <mark>AWS/Azure</mark> <mark>Devops</mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Peoplesoft HCM FIN Support/Upgrade/Impementation Specialist
+        #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title:  Staffing Implementation
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This one of the project I am very proud of implementation, upgrade and support
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This project has implemented using various PeopleTools 8.54, 8.58 and 8.60 and Peoplesoft 9.2 HCM/FSCM. I've done several tasks in the project during 12 years. Provided various solution during the project incuding providing custom payroll/benefit solution and Integration with 3rd party systems using SOAP and REST.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
